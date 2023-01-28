@@ -1,6 +1,5 @@
 # Hi!
 # I am Zahra 👋
-
 ## I am a fullstack developer and a phonetician!
 
 
