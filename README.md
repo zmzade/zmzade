@@ -1,6 +1,6 @@
-#*Hi*!
-#*I am Zahra* 👋
-##*I am a fullstack developer and a phonetician!*
+# *Hi*!
+# *I am Zahra* 👋
+## *I am a fullstack developer and a phonetician!*
 
 
 - 🌱 I’m currently learning .net/c#
